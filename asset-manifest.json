@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c0d2a24b.chunk.css",
+    "main.js": "/static/js/main.4141c3e9.chunk.js",
+    "main.js.map": "/static/js/main.4141c3e9.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/css/2.dedc3531.chunk.css": "/static/css/2.dedc3531.chunk.css",
+    "static/js/2.3c097907.chunk.js": "/static/js/2.3c097907.chunk.js",
+    "static/js/2.3c097907.chunk.js.map": "/static/js/2.3c097907.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.ccfb740ac6cf95f4715c7360ed4c801a.js": "/precache-manifest.ccfb740ac6cf95f4715c7360ed4c801a.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.dedc3531.chunk.css.map": "/static/css/2.dedc3531.chunk.css.map",
+    "static/css/main.c0d2a24b.chunk.css.map": "/static/css/main.c0d2a24b.chunk.css.map",
+    "static/media/index.css": "/static/media/blur-background-1187974.55d5567d.jpg",
+    "static/media/weather-icons.css": "/static/media/weathericons-regular-webfont.ecaf8b48.svg"
+  }
+}
